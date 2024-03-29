@@ -1,0 +1,20 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:@types/degit": "npm:@types/degit@2.8.6",
+      "npm:degit": "npm:degit@2.8.4"
+    },
+    "npm": {
+      "@types/degit@2.8.6": {
+        "integrity": "sha512-y0M7sqzsnHB6cvAeTCBPrCQNQiZe8U4qdzf8uBVmOWYap5MMTN/gB2iEqrIqFiYcsyvP74GnGD5tgsHttielFw==",
+        "dependencies": {}
+      },
+      "degit@2.8.4": {
+        "integrity": "sha512-vqYuzmSA5I50J882jd+AbAhQtgK6bdKUJIex1JNfEUPENCgYsxugzKVZlFyMwV4i06MmnV47/Iqi5Io86zf3Ng==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {}
+}

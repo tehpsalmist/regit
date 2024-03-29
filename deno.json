@@ -1,0 +1,11 @@
+{
+  "fmt": {
+    "lineWidth": 120,
+    "semiColons": false,
+    "singleQuote": true
+  },
+  "tasks": {
+    "dev": "REGIT_DEV=true deno run --allow-sys --allow-env --allow-run --allow-net --allow-read --allow-write --watch main.ts",
+    "i": "deno install --allow-sys --allow-env --allow-run --allow-net --allow-read --allow-write main.ts -fg"
+  }
+}
